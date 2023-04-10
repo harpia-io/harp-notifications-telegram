@@ -1,4 +1,4 @@
-## Harp Notifications Telegram Service
+## Open Source Incident Management system - Harp Notifications Telegram Service
 
 ### Full info about Project - https://github.com/harpia-io/harpia
 
